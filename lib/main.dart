@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Counter App', // Dize tırnakları düzeltildi
+      title: 'Counter App', 
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
